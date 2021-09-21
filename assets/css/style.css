@@ -835,7 +835,9 @@ hr {
   .hide-on-desktop{
     display: block;
   }
-
+  h4 {
+    font-size: 16px;
+  }
 
 
   .st-site-header .st-btn,
@@ -1313,7 +1315,7 @@ canvas {
   padding-right: 30px; }
 
 .st-text-block.st-style1 .st-text-block-title {
-  font-size: 36px;
+  font-size: 24px;
   font-weight: 400;
   margin-bottom: 18px; }
 .st-text-block.st-style1 .st-text-block-subtitle {
